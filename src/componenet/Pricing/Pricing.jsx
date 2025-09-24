@@ -2,7 +2,7 @@ import React from "react";
 import { AiOutlineOpenAI } from "react-icons/ai";
 import sass from "../../assets/Sass.png";
 import digg from "../../assets/digg.png";
-import ati from "../../assets/ATI.png";
+import ati from "../../assets/ati.png";
 import deesignal from "../../assets/DEESIGNAL MEDIA.png";
 import cardmajor from "../../assets/CARD MAJOR.png";
 
